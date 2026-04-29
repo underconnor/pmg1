@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main(void){
+	unsigned int a = -1;
+
+	printf("%u",a);
+
+	return 0;
+}
